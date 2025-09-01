@@ -1,0 +1,13 @@
+# Environment Setup Checklist
+## Installed Tools
+- [ ] VS Code
+- [ ] .NET SDK
+- [ ] Node.js
+- [ ] Git
+- [ ] Azure Data Studio
+
+## VS Code Extensions
+- [ ] C#
+- [ ] ESLint
+- [ ] Prettier
+- [ ] GitHub Copilot (trial)
